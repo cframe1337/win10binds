@@ -14,4 +14,4 @@ RU:
 ENG:
   The exe program was created using a bat file converter into an exe program.
 RU:
-  Exe программа была создана с помощью конвертера бат файлов в exe программу.
+  Exe программа была создана с помощью конвертера бат файлов в exe программу.(Advanced BAT to EXE Converter v4.5)
